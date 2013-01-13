@@ -1,2 +1,6 @@
-this is a cutom rom for p970 based on Marvel D which is ics v30b , the kernel is from N00BY's repack and its sources 
-not mine   
+                                       ############################
+                                       ## LG P970 Optimus Black  ##
+                                       ##    Neoxide series by  ##
+                                       ##       rrgrrg-xda       ##
+                                       ##     Based on V30C      ##
+                                       ############################                                       
